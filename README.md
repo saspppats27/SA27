@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="https://raw.githubusercontent.com/0623870550/AUTONOME_APP/main/frontend/assets/logo_sa_27.png" width="180" />
+  <img src=https://github.com/saspppats27/SA27/blob/main/frontend/assets/logo_sa_27.png width="180" />
 </p>
 
 # 🚒 AUTONOME_APP  
